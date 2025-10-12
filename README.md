@@ -10,7 +10,7 @@ For cell movement, I found _Predicting the future direction of cell movement wit
 
 After some time, I had eventually found this paper: _Cell Polarity and Movement with Reaction-Diffusion and Moving Boundary: Rigorous Modeling and Robust Simulations_ by Shuang Lui et al. (2022).
 
-However, I'm not an expert so I can't understand these gargantuant behemoths:
+However, I'm not an expert so I can't understand these gargantuan behemoths:
 
 ![img.png](img.png)
 
