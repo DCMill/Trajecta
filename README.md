@@ -15,7 +15,7 @@ However, I'm not an expert so I can't understand these gargantuant behemoths:
 ![img.png](img.png)
 
 So I got a LONG way to go.
-# References
+# References (Will alphabetize later)
 Nishimoto, S., Tokuoka, Y., Yamada, T. G., Hiroi, N. F., & Funahashi, A. (2019). Predicting the future direction of cell movement with convolutional neural networks. PloS one, 14(9), e0221245. https://doi.org/10.1371/journal.pone.0221245
 
 Liu, S., Cheng, L. T., & Li, B. (2022). Cell Polarity and Movement with Reaction-Diffusion and Moving Boundary: Rigorous Modeling and Robust Simulations. arXiv preprint arXiv:2208.05536.
